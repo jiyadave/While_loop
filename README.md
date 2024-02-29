@@ -31,6 +31,6 @@
 I'm an aspiring software developer.
 
 
-I self taught myself Photoshop and Illustrator; followed by Excel.
-This then that paved the way to Python and SQL, and this is just the beginning.
+I self-taught myself Photoshop and Illustrator; followed by Excel.
+This then paved the way for Python and SQL, and this is just the beginning.
 👩🏽‍💻👩🏽‍🎓🌍
