@@ -35,4 +35,6 @@ I self-taught myself Photoshop and Illustrator; followed by Excel.
 
 
 This then paved the way for Python and SQL, and this is just the beginning.
+
+
 👩🏽‍💻👩🏽‍🎓🌍
